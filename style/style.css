@@ -1,0 +1,508 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.conteiner-1{
+    max-width: 1150px;
+    padding: 0 15px;
+    margin: 0 auto;
+     
+    
+}
+.list-1{
+    background-color: rgba(242, 206, 218, 0.3)
+}
+.menu{
+    display: flex;
+    list-style: none;
+}
+.menu li{
+    margin: 0 20px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 14px;
+    line-height: 16px;
+    white-space: nowrap;
+
+    
+    
+}
+.menu a{
+    text-decoration: none;
+    color: rgba(21,1,1,0.6);
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buynow-1{
+    width: 165px;
+    height: 49px;
+    background-color: #D23166;
+    color: white;
+    border-radius: 5px;
+    margin-left: 152px;
+    border: 0px;
+}
+.logo{
+    margin-right: 246px;
+}
+.menu :active{
+    color: #D23166;
+    font-size: 15px;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+}
+.text p{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.1em;
+}
+h1{
+font-family: 'Fredoka One';
+font-style: normal;
+font-size: 57.33px;
+line-height: 120.5%;
+
+
+}
+h1 span{
+    color: #D23166;
+
+}
+.text{
+    width: 665px;
+    height: 364px;
+    margin-top: 196px;
+}
+.text b{
+    margin-top: 196px;
+    
+    
+}
+
+.text p{
+    width: 523px;
+    height: 78px;
+    font-family:"Hind Madurai";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: rgba(15, 1, 1, 0.6);
+    margin-top: 35px;
+}
+.elepse{
+    width: 365px;
+    height: 353px;
+    border: rgba(210, 49, 102, 0.1 );
+    border-radius: 50%;
+    background-color: rgba(210, 49, 102, 0.1 );
+    margin-top: 322px;
+    margin-bottom: 98px;
+    margin-left: 86px;
+    
+   
+}
+.icecream{
+    margin-left: -112px;
+    margin-top: -280px;
+    width: 597px;
+    height: 597px;
+   
+}
+.wave{
+    
+    width: 851px;
+    height: 548px;
+    margin-left: -230px;
+    margin-top: -430px;
+    transform: rotate(4.79deg);
+    
+}
+.buynow-2{
+    width: 165px;
+    height: 49px;
+    background-color: #D23166;
+    color: white;
+    border-radius: 5px;
+    margin-top: -230px;
+    border: 0px;
+}
+.list-2{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1150px;
+    padding: 0 15px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center; 
+   
+}
+.group{
+    margin-left: 50px;
+    width: 198px;
+    height: 140px;
+    margin-top: 80px;
+    margin-right: 32px;
+}
+.group img{
+    width: 51px;
+    height: 43px;
+    margin-bottom: 25px;
+    margin-left: 37%
+    
+    
+}
+.group p{
+    width: 198px;
+    height: 35px;
+    margin-top: 9px;
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.6);
+}
+.group h2{
+    font-family: "Hind Madurai";
+    font-style: normal;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 600;
+    text-align: center;
+}
+.list-3{
+    background-color: rgba(242, 206, 218, 0.3);
+    margin-top: 50px;
+}
+.content-2{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1150px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.icecream-2{
+    width: 655px;
+    height: 655px;
+    margin-top: -60px;
+    
+    
+}
+.sugar{
+    width: 442px;
+    height: 256px;
+    margin-top: 141px;
+  
+}
+.sugar h2{
+    width: 349px;
+    height: 98px;
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44.2px;
+    line-height: 49px;
+}
+.sugar p{
+    width: 442px;
+    height: 58px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(21, 1, 1, 0.6);
+    margin-top: 16px;
+}
+.see-details{
+    width: 165px;
+    height: 49px;
+    background-color: #D23166;
+    border-radius: 5px;
+    color: white;
+    margin-top: 35px;
+    border: 0px;
+    
+}
+.list-4{
+    max-width: 1150px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.menu-2{
+    display: flex;
+    list-style: none;
+    margin-top: 64px;
+}
+.menu-2 a{
+    text-decoration: none;
+}
+.header-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.menu-2 a{
+    margin: 0 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.list-4 h2{
+    margin-top: 137px;
+    margin-left: 430px;
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44.2px;
+    line-height: 61px;
+}
+.menu-2 :active{       
+    color: rgba(0, 0, 0, 1);
+    border-bottom: 3px solid #D64374;
+}
+.brownb{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.brownb img{
+    width: 580px;
+    height: 415px;
+    margin-top: 46px;
+}
+.bread{
+    width: 539px;
+    height: 234px;
+}
+.bread h2{
+    margin-top: 110px;
+    margin-left: 85px ;
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 36px;
+}
+.bread p{
+    margin-left: 85px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.6);
+}
+.buynow-3{
+    width: 165px;
+    height: 49px;
+    background-color: #D23166;
+    color: white;
+    margin-left: 85px;
+    margin-top: 16px;
+    border-radius: 5px;
+    border: 0px;
+
+}
+.price{
+    margin-top: 28px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.price-1{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 36px;
+    margin-left: 85px;
+    
+}
+.price-2{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    text-decoration-line: line-through;
+    margin-left: 5px;
+    margin-top: 6px;
+    color: rgba(0, 0, 0, 0.7);
+    border: 0px;
+}
+.cayenne{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: right;
+}
+.cay-ice{
+    width: 444px;
+    height: 234px;
+    
+}
+.cay-ice h2{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 36px;
+    margin-top: 121px;
+    margin-right: 84px;
+    width: 222px;
+    height: 36px;
+    margin-left: 223px;
+    
+}
+.choco-ice{
+    width: 580px;
+    height: 415px;
+    margin-left: 84px;
+}
+.cay-ice p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.7);
+}
+.price-3{
+    font-family: 'Hind Madurai';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 36px;
+    margin-left: 318px;
+}       
+.buynow-4{
+    width: 165px;
+    height: 49px;
+    background-color: #D23166;
+    color: white;
+    border-radius: 5px;
+    margin-left: 152px;
+    margin-top: 16px;
+    border: 0px;
+}   
+.sweet{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.sweet img{
+    width: 580px;
+    height: 415px;
+    margin-top: 35px;
+}
+
+.feedback{
+    display: flex;
+    flex-wrap: wrap;        
+}    
+.comment{
+    width: 500px;
+    height: 415px;
+    margin-top: 200px;
+}
+
+.adele{
+    width: 59px;
+    height: 58px;
+    border-radius: 50%;
+}
+.face{
+    display: flex;
+    flex-wrap: wrap;  
+
+}
+.face a :active{  
+    border: 1px solid rgba(214, 67, 116,1);  
+   
+   
+}
+.adele1{
+    width: 59px;
+    height: 58px;
+    border-radius: 50%;   
+    margin-top: 50px;
+   
+}
+
+   
+.adele2{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-top: 60px;
+    margin-left: 27px;
+}
+.men{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-top: 60px;
+    margin-right: 27px;
+
+}
+.otz{
+    width: 564px;
+    height: 422px;
+    margin-top: 112px;
+    margin-left: 55px;
+}
+.name{
+    display: flex;
+    flex-wrap: wrap; 
+    width: 356px; 
+    margin-top: 0px;
+}
+.name h2{
+    width: 179px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    margin-top: -60px;
+    margin-left: 80px;
+}
+.american{
+    width: 77px;
+    height: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: rgba(0, 0, 0, 0.7);
+    margin-top: -25px;
+    margin-left: 80px;
+}
+.thanks{
+    width: 322px;
+    height: 53px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 50px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
